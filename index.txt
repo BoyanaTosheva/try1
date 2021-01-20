@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+    <html lan="en">
+      <head>
+        <meta charset="utf-8">
+        <title>my_cat_sai</title>
+      </head> 
+        <body>
+          <div id="introduction">
+            <h1> My Cat Sai! </h1>
+            <p> He is 5years old and loves to sleeps and play tag!</p>
+            <img src="./images/sai1.jpg" alt="A picture of my cat"/> 
+            <h2> This is Sai </h2>
+          </div>
+          <div id="link_to_buas"> 
+            <a href="https://www.buas.nl/" target="_blank"> Link to the BUas website. </a> 
+          </div>
+        </body>
+    </html>
